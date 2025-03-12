@@ -1,5 +1,5 @@
 <html>
     <body>
-        <p>Registration Complete! Log in to your account now</p>
+        <p>Registration Complete!</p>
 </body>
 </html>
