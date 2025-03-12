@@ -11,19 +11,19 @@
   <table>
     <tr>
       <td><label for="user_name">Username:</label></td>
-      <td><input type="text" id="user_name" name="user_name" required></td>
+      <td><input type="text" id="user_name" name="user_name"></td>
     </tr>
     <tr>
       <td><label for="email">Email Address:</label></td>
-      <td><input type="email" id="email" name="email" required></td>
+      <td><input type="email" id="email" name="email"></td>
     </tr>
     <tr>
       <td><label for="password">Password:</label></td>
-      <td><input type="password" id="password" name="password" required></td>
+      <td><input type="password" id="password" name="password"></td>
     </tr>
     <tr>
       <td><label for="confirm_password">Confirm Password:</label></td>
-      <td><input type="password" id="confirm_password" name="confirm_password" required></td>
+      <td><input type="password" id="confirm_password" name="confirm_password"></td>
     </tr>
   </table>
 </fieldset>
@@ -33,16 +33,16 @@
   <table>
     <tr>
       <td><label for="Address">Current Address:</label></td>
-      <td><input type="text" id="Address" name="Address" required></td>
+      <td><input type="text" id="Address" name="Address"></td>
     </tr>
     <tr>
       <td><label for="Date_of_Birth">Date of Birth:</label></td>
-      <td><input type="date" id="Date_of_Birth" name="Date_of_Birth" required></td>
+      <td><input type="date" id="Date_of_Birth" name="Date_of_Birth"></td>
     </tr>
     <tr>
       <td><label for="gender">Gender:</label></td>
       <td>
-        <input type="radio" id="male" name="gender" value="male" required>
+        <input type="radio" id="male" name="gender" value="male">
         <label for="male">Male</label>
         <input type="radio" id="female" name="gender" value="female">
         <label for="female">Female</label>
@@ -52,7 +52,7 @@
     </tr>
     <tr>
       <td><label for="phone">Phone Number:</label></td>
-      <td><input type="tel" id="phone" name="phone" pattern="[0-9]{3}-[0-9]{2}-[0-9]{3}" required></td>
+      <td><input type="tel" id="phone" name="phone" pattern="[0-9]{3}-[0-9]{2}-[0-9]{3}"></td>
     </tr>
     <tr>
       <td><label for="Profile_Pic">Upload Photo:</label></td>
