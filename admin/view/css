@@ -1,0 +1,28 @@
+/*header part*/
+.left-part {
+    padding: 8px;
+    margin-left: 100px;
+    margin-top: 120px;
+}
+
+.header {
+    background-color: #E554731A;
+}
+
+
+.header-title {
+    width: 520px;
+    color: #272727;
+    font-size: 60px;
+    font-weight: 800;
+    margin-bottom: 28px;
+}
+.btn-primary {
+    margin-top: 0px;
+    border-radius: 8px;
+    background: #E55473;
+    color: #fff;
+    font-size: 18px;
+    padding: 18px 35px;
+    border: 0;
+}
